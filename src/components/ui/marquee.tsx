@@ -1,12 +1,8 @@
 "use client";
-
 import type { HTMLAttributes } from "react";
-import FastMarquee, {
-  MarqueeProps as FastMarqueeProps,
-} from "react-fast-marquee";
+import type { MarqueeProps as FastMarqueeProps } from "react-fast-marquee";
+import FastMarquee from "react-fast-marquee";
 import { cn } from "@/lib/utils";
-
-// Wrapper div for the marquee
 export type MarqueeProps = HTMLAttributes<HTMLDivElement>;
 export const Marquee = ({ className, ...props }: MarqueeProps) => (
   <div
@@ -14,8 +10,6 @@ export const Marquee = ({ className, ...props }: MarqueeProps) => (
     {...props}
   />
 );
-
-// The actual scrolling marquee content
 export type MarqueeContentProps = FastMarqueeProps;
 export const MarqueeContent = ({
   loop = 0,
@@ -30,8 +24,6 @@ export const MarqueeContent = ({
     {...props}
   />
 );
-
-// Fade effect on left or right side
 export type MarqueeFadeProps = HTMLAttributes<HTMLDivElement> & {
   side: "left" | "right";
 };
@@ -49,8 +41,6 @@ export const MarqueeFade = ({
     {...props}
   />
 );
-
-// Individual marquee item
 export type MarqueeItemProps = HTMLAttributes<HTMLDivElement>;
 export const MarqueeItem = ({ className, ...props }: MarqueeItemProps) => (
   <div
