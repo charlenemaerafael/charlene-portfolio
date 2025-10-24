@@ -9,6 +9,9 @@
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
+  "engines": {
+    "node": ">=18"
+  },
   "dependencies": {
     "@radix-ui/react-toast": "^1.2.10",
     "@tailwindcss/vite": "^4.1.4",
