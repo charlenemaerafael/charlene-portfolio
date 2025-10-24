@@ -17,14 +17,17 @@ export const ThemeToggle = () => {
   }, []);
 
   const toggleTheme = () => {
+    console.log("Theme toggle clicked, current state:", isDarkMode);
     if (isDarkMode) {
       document.documentElement.classList.remove("dark");
       localStorage.setItem("theme", "light");
       setIsDarkMode(false);
+      console.log("Switched to light mode");
     } else {
       document.documentElement.classList.add("dark");
       localStorage.setItem("theme", "dark");
       setIsDarkMode(true);
+      console.log("Switched to dark mode");
     }
   };
 
@@ -32,8 +35,8 @@ export const ThemeToggle = () => {
     <button
       onClick={toggleTheme}
       className={cn(
-        "fixed max-sm:hidden top-5 right-5 z-50 p-2 rounded-full transition-colors duration-300",
-        "focus:outlin-hidden"
+        "fixed top-5 right-16 z-50 p-2 rounded-full transition-colors duration-300",
+        "focus:outline-none hover:bg-primary/10 bg-background/80 border border-primary/20"
       )}
     >
       {isDarkMode ? (

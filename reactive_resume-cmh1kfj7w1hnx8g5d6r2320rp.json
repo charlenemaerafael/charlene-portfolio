@@ -1,0 +1,334 @@
+{
+  "basics": {
+    "name": "Charlene Mae M. Rafael",
+    "headline": "",
+    "email": "rafaelcharlenemae.m@gmail.com",
+    "phone": "+6392333343279",
+    "location": "Philippines",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [],
+    "picture": {
+      "url": "https://avatars.githubusercontent.com/u/136217277?v=4",
+      "size": 64,
+      "aspectRatio": 1,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": false,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p></p>"
+    },
+    "awards": {
+      "name": "Awards",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": []
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "Education",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "f2j7zl6m1icazrkh7wqemcz4",
+          "visible": true,
+          "institution": "Cavite State University-CCAT Campus Rosario",
+          "studyType": "",
+          "area": "Bachelor of Science in Information Technology",
+          "score": "",
+          "date": "August 2021 - September 2025",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "Experience",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "c6bege9v5qqx8urizaofawl0",
+          "visible": true,
+          "company": "Aquanet",
+          "position": "Fullstack Web Developer",
+          "location": "",
+          "date": "August 2024 - January 2025",
+          "summary": "<p style=\"text-align: justify;\">A web-based system designed to streamline water billing management, enhance communication with customers via automated notifications, and provide location tracking through integrated mapping features.</p><p style=\"text-align: justify;\"></p><p></p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "g5yhvn9az3hzzrpjcpqo24rv",
+          "visible": true,
+          "company": "Apartment Management System",
+          "position": "Fullstack Web Developer",
+          "location": "",
+          "date": "April 2024 - July 2024",
+          "summary": "<p style=\"text-align: justify;\">Developed AMS a web application that simplifies tenant management, rent tracking, and maintenance requests for property administrators.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "o8mxlpte0jkahqipsoeagol4",
+          "visible": true,
+          "company": "Water Billing Management System",
+          "position": "Fullstack Web Developer",
+          "location": "",
+          "date": "November 2023 - January 2024",
+          "summary": "<p style=\"text-align: justify;\">Developed a Water Billing Management System using C++ that automates the computation of water bills, manages customer records, and generates billing reports for improved efficiency and accuracy.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "wtwigcun7v5orltop6r7ve44",
+          "visible": true,
+          "company": "LTO Queueing System",
+          "position": "Frontend Web Developer",
+          "location": "",
+          "date": "February 2025 - June 2025",
+          "summary": "<p style=\"text-align: justify;\">Developed a Queueing System for the Land Transportation Office (LTO) to streamline the customer flow process, minimize waiting times, and improve service efficiency through organized ticket management.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jn8xkmy18ilm13qcuns43esx",
+          "visible": true,
+          "company": "LTO Customer Service Guide",
+          "position": "Frontend Web Developer",
+          "location": "",
+          "date": "February 2025 - June 2025",
+          "summary": "<p style=\"text-align: justify;\">Developed an LTO Customer Service Information System designed to help users easily access service requirements and follow detailed step-by-step procedures for LTO transactions.</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "Volunteering",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": []
+    },
+    "interests": {
+      "name": "Interests",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": []
+    },
+    "languages": {
+      "name": "Languages",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": []
+    },
+    "profiles": {
+      "name": "Profiles",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "ka2zpb95eb1cz6emwtiirexs",
+          "visible": true,
+          "network": "Github",
+          "username": "charlenemaerafael",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/charlenemaerafael"
+          }
+        },
+        {
+          "id": "ouwhprs8cxae7xsoy4xsu4gq",
+          "visible": true,
+          "network": "LinkedIn",
+          "username": "charlenemaerafael",
+          "icon": "linkedin",
+          "url": {
+            "label": "",
+            "href": "https://www.linkedin.com/in/rafael-charlene-mae-m-163505346/"
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "Projects",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": []
+    },
+    "publications": {
+      "name": "Publications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": []
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "Skills",
+      "columns": 2,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "w08i9jrnj5xm0oeo13d36n4v",
+          "visible": true,
+          "name": "Javascript",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "gfg5c8bjdduwtg68qxo8b7ng",
+          "visible": true,
+          "name": "Tailwind",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "ev0ohuuebhvjb3irajmbpj8o",
+          "visible": true,
+          "name": "React/NextJs",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "bmcpyu4xkpa1ndljq0j7vt4o",
+          "visible": true,
+          "name": "MySQL/SQL",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        },
+        {
+          "id": "i43obj75o1f82gd59l17pqz0",
+          "visible": true,
+          "name": "Node/Express",
+          "description": "",
+          "level": 0,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "bronzor",
+    "layout": [
+      [
+        [
+          "profiles",
+          "skills",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 30,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": false
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#3c434c"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular",
+          "italic",
+          "600"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
