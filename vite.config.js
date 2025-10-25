@@ -35,5 +35,5 @@ export default defineConfig({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  base: "./", // ✅ This fixes relative paths for Vercel
+  base: "/",
 });
